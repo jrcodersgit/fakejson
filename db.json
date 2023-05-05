@@ -1,6 +1,6 @@
 [
    {
-        fName: "smbfname",
-        lName: "smblname"
+        "fName": "smbfname",
+        "lName": "smblname"
      }
-  ]
+ ]
